@@ -16,7 +16,7 @@
 
 ## Setup/Installation requirements
 
-- Clone  or download and unzip the repository from github, [https://github.com/njiiri12/Quotes](https://github.com/peter-wachira/Quotes-.git).
+- Clone  or download and unzip the repository from github, [https://github.com/njiiri12/Quotes](https://njiiri12.github.io/Quotes/).
 - If you have git Use this command `git clone *` to clone the project.
 - Run ng serve from your terminal
 
@@ -37,4 +37,4 @@ To view the page click on the link below
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Yvonne Njiiri](https://github.com/peter-wachira)
+- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Yvonne Njiiri](https://njiiri12.github.io/Quotes/)
