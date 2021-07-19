@@ -22,7 +22,7 @@
 
 ## Live Demo
 To view the page click on the link below
-* [https://peter-wachira.github.io/Quotes-/](*)
+* [https://njiiri12.github.io/Quotes/](*)
 
 ## Technologies Used
 - Angular CLI
