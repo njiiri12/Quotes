@@ -1,7 +1,6 @@
 
 # Quotes
-#### Quotes, March 25th 2019
-#### By **Peter Wachira**
+#### By **Yvonne Njiiri**
 
 ## Description
 - An application that enables users to add quotes,delete quotes.You can also be able to see already existing and there author and can upvote and downvote quotes.
@@ -32,10 +31,10 @@ To view the page click on the link below
 - There are no known bugs currently. The page works as expected.
 
 ## Support and Contact Details
-- For any comments,suggestions,feedback or inquiries, contact me via email: `pwachira900@gmail.com`
+- For any comments,suggestions,feedback or inquiries, contact me via email: `njerinjiiri@gmail.com`
 
 
 - Make contributions to the code.
 
 ## License
-- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Peter Wachira](https://github.com/peter-wachira)
+- This project is licensed under the MIT Open Source license Copyright (c) 2019. [Yvonne Njiiri](https://github.com/peter-wachira)
